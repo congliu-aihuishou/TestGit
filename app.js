@@ -1,2 +1,1 @@
-git checkout --app.js
-test romote git 
+chanage file  at  dev
